@@ -1,4 +1,4 @@
-module github.com/Etam1ne/protos
+module github.com/Etam1ne/api-contracts
 
 go 1.22.3
 
